@@ -1,0 +1,13 @@
+﻿걸린시간(Cost Time),선택(Select),정답(Answer),정답 여부(isRight)
+1.210906,Orange,Cafe,False
+1.169012,Cafe,Cafe,True
+0.7642676,Orange,Pizza,False
+2.459332,Flower,Pizza,False
+1.874608,Pizza,Fruit,False
+1.527568,Cafe,Cafe,True
+2.22261,Orange,Pizza,False
+0.7916816,Flower,Fruit,False
+1.208261,Pizza,Fruit,False
+0.7362601,Orange,Flower,False
+0.9164634,Flower,Flower,True
+1.096883,Cafe,Flower,False
