@@ -21,7 +21,7 @@ public class LanguageManager : MonoBehaviour
             UItext[2].text="Please select the type of the passed building!";
             UItext[2].fontSize=0.17f;
             UItext[3].text="Cafe";
-            UItext[4].text="fruit store";
+            UItext[4].text="Fruit store";
             UItext[5].text="Flower";
             UItext[6].text="Pizza";
         }
