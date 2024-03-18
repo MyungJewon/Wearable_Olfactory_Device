@@ -2,18 +2,6 @@
 
 
 
-Abstract—Humans interact with the world using various sensory organs. Vision and hearing are the primary senses that enable us to
-perceive the environment and interact with it. Virtual Reality (VR) technology allows users to explore virtual worlds by providing visual
-and auditory stimuli. However, current VR experiences are limited in terms of sensory stimulation and immersion, which can hinder
-user experience and task performance. Teleporting is a commonly used locomotion method in VR, allowing users to instantly move to
-different locations. However, this method can make it difficult to accurately perceive and interact with objects, especially those outside
-the user’s field of view. This can lead to unnecessary exploration and frustration, especially in large virtual environments. To address
-these limitations, this study investigates the use of a multi-scent device with ventilation to enhance object recognition and immersion
-during teleportation in VR. We developed two scent devices: a wearable device and a stationary device. We conducted a user study
-with 20 participants to compare the two devices and investigate the effects of scent and ventilation on object recognition, usability, and
-user experience. The results showed that the multi-scent device significantly improved object recognition accuracy in situations without
-visual information. Ventilation also improved accuracy and user experience. Additionally, the scent device enhanced user satisfaction
-and task performance without increasing workload or discomfort. Our findings suggest that multi-scent devices with ventilation can be
-a valuable tool for improving object recognition and immersion in VR environments, especially during teleportation. This technology
-has the potential to enhance user experience and task performance in various VR applications.
-Index Terms—Virtual reality, Multisensory System, Human Computer Interaction
+Abstract—Humans interact with the world using various sensory cues such as vision enable us to perceive the environment and interact with it Similarly, Virtual Reality (VR) technology has advanced to offer users enhanced visual and auditory experiences.
+However, despite these advancements, VR experiences are limited in terms of having to experience multiple different senses. Another important sense, smell, has been proposed to overcome these limitations. The initial research focus was on introducing various types of olfactory devices. Nevertheless, the structural complexity of these devices makes them difficult to reproduce. In this work, we propose reproducible olfactory device prototypes for VR that emit scents and provide ventilation when interacting with VR environments.
+These prototypes include wearable and stationary devices. We conduct a user study to evaluate the usability of the wearable device by applying it to navigation techniques, including Teleportation and Dash. The results suggest that providing olfactory cues via ventilation during exploration improves object ecognition even when the objects are not visually visible. We conclude this work by discussing their limitations and suggesting directions for future research
